@@ -1,3 +1,4 @@
+  // Status da conexão Wifi
   // Connect to WiFi network
   Serial.println();
   Serial.print(F("Connecting to "));

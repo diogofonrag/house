@@ -1,3 +1,4 @@
+// Arquivo de configuração básica para acesso ao Wifi
 #include <ESP8266WiFi.h>
 
 #define STASSID "Diogo_Fibra"
